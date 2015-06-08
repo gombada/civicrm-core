@@ -416,7 +416,7 @@ class CRM_Utils_Check_Env {
     }
 
     // OK, return several data rows
-    $returnValues = array( 
+    $returnValues = array(
       array('status' => $return, 'message' => $msg),
     );
 
